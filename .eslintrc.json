@@ -10,5 +10,7 @@
         "ecmaVersion": "latest"
     },
     "rules": {
+       // "semi":2
+       //every line needs add a semicolon ;
     }
 }
